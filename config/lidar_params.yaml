@@ -1,0 +1,11 @@
+# 串口配置
+port_name: "/dev/lidar"  #"/dev/ttyUSBx"
+frame_id: "laser"
+
+# 滤波算法配置
+filter:
+  enabled: true          # 是否开启滤波
+  radius: 0.10           # 搜索半径 (米)
+  min_neighbors: 2       # 半径内最少邻居数 (包含自己)
+
+  
