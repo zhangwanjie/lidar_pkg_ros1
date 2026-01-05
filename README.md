@@ -1,8 +1,14 @@
 # 扫地机器人雷达 ROS1 驱动
 
 ## 介绍视频
-Bilibili: [机器人操作系统 ROS2 入门教材](https://www.bilibili.com/video/BV1oz421v7tB)  
-Youtube: [机器人操作系统 ROS2 入门教材](https://www.youtube.com/watch?v=j0foOvBqQTc)
+Bilibili: [《一只机器狗是如何逃离遥控器的？！》](https://www.bilibili.com/video/BV15Li4B9EDW/)   
+Youtube: [《一只机器狗是如何逃离遥控器的？！》](https://www.bilibili.com/video/BV15Li4B9EDW/)   
+
+## 特别感谢
+感谢智元科技的大力支持，可扫描如下二维码获取更多开发资料。
+<div align="center">
+  <img src="./media/D1_EDU.jpg" width="400">
+</div><br>
 
 ## 教材书籍
 1、《机器人操作系统(ROS)及仿真应用》（C++）  
@@ -68,10 +74,4 @@ Youtube: [机器人操作系统 ROS2 入门教材](https://www.youtube.com/watch
 关注我，后续分享更多玩法 o(*≧▽≦)ツ
 <div align="center">
   <img src="./media/AJQR.jpg" width="400">
-</div><br>
-
-## 特别感谢
-感谢智元科技的大力支持，可扫描如下二维码获取更多开发资料。
-<div align="center">
-  <img src="./media/D1_EDU.jpg" width="400">
 </div><br>
