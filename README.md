@@ -25,6 +25,11 @@ Youtube: [机器人操作系统 ROS2 入门教材](https://www.youtube.com/watch
   cd ~/catkin_ws/src/
   git clone https://github.com/zhangwanjie/lidar_pkg_ros1.git
   ```
+  备用地址：
+  ```
+  cd ~/catkin_ws/src/
+  git clone https://gitee.com/s-robot/lidar_pkg_ros1.git
+  ```
 2. 插上雷达，执行如下指令：
   ```
   ls /dev/ttyUSB* 
