@@ -1,8 +1,8 @@
 # 扫地机器人雷达 ROS1 驱动
 
 ## 介绍视频
-Bilibili: [《一只机器狗是如何逃离遥控器的？！》](https://www.bilibili.com/video/BV15Li4B9EDW/)   
-Youtube: [《一只机器狗是如何逃离遥控器的？！》](https://www.bilibili.com/video/BV15Li4B9EDW/)   
+Bilibili: [【开源】超低成本的激光雷达导航方案](https://www.bilibili.com/video/BV15Li4B9EDW/)  
+Youtube: [【开源】超低成本的激光雷达导航方案](https://www.youtube.com/watch?v=J-uE7xHYDxY) 
 
 ## 特别感谢
 感谢智元科技的大力支持，可扫描如下二维码获取更多开发资料。
@@ -51,10 +51,9 @@ Youtube: [《一只机器狗是如何逃离遥控器的？！》](https://www.bi
   sudo usermod -a -G dialout $USER 
   ```
 4. 修改设备参数：  
+  修改文件 /cofnig/lidar_params.yaml  
   ```
-  #lidar_pkg_ros1/config/lidar_params.yaml
-
-  port_name: "/dev/ttyUSBx"  #雷达设备名称
+  port_name: "/dev/ttyUSBx"  #具体的雷达设备名称
   frame_id: "laser"
   ```
 5. 编译
