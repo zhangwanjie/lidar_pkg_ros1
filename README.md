@@ -51,7 +51,7 @@ Youtube: [【开源】超低成本的激光雷达导航方案](https://www.youtu
   sudo usermod -a -G dialout $USER 
   ```
 4. 修改设备参数：  
-  修改文件 /cofnig/lidar_params.yaml  
+  修改文件 /config/lidar_params.yaml  
   ```
   port_name: "/dev/ttyUSBx"  #具体的雷达设备名称
   frame_id: "laser"
